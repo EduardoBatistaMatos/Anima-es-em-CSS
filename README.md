@@ -1,4 +1,6 @@
 Título: Projeto de GIF Animado em CSS
+<img src= "https://eduardobatistamatos.github.io/Anima-es-em-CSS/" width="600">
+<br><br>
 
 Descrição:
 
@@ -10,6 +12,7 @@ Aprender Animação em CSS: Explorar as propriedades de animação do CSS, como 
 Criatividade e Design: Aplicar conceitos de design e criatividade para criar uma animação visualmente atraente.
 Performance e Eficiência: Analisar o impacto da animação em CSS na performance da página web.
 Ferramentas e Tecnologias Utilizadas:
+
 
 HTML5: Para a estruturação básica do conteúdo.
 
