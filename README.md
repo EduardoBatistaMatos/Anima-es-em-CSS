@@ -28,3 +28,6 @@ Criação de um GIF animado funcional e esteticamente agradável.
 Demonstração da capacidade de criar animações complexas usando apenas CSS.
 Aprendizado prático sobre animação web e otimização de performance.
 
+LINK DO CÓDIGO RODANDO: https://eduardobatistamatos.github.io/Anima-es-em-CSS/
+LINK DO CODEPEN: [https://eduardobatistamatos.github.io/Anima-es-em-CSS/](https://codepen.io/Dudu-Batista/pens/public)
+
