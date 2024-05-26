@@ -1,4 +1,4 @@
-#Título: Projeto de GIF Animado em CSS
+Título: Projeto de GIF Animado em CSS
 
 Descrição:
 
