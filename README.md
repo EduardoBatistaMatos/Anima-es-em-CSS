@@ -1,5 +1,5 @@
 Título: Projeto de GIF Animado em CSS
-<img src= "https://eduardobatistamatos.github.io/Anima-es-em-CSS"
+<img src= "https://eduardobatistamatos.github.io/Anima-es-em-CSS"> 
 <br><br>
 
 Descrição:
